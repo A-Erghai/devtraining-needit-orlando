@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Specified Request Type">3943e69d2fa3e010ae2724c62799b648</data_item>
+        <interleaved_field/>
+        <name>By Request TypE Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>abdessabourerghai@gmail.com</sys_created_by>
+        <sys_created_on>2021-04-15 14:26:18</sys_created_on>
+        <sys_id>2453cfd12f27e010ae2724c62799b628</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>By Request TypE Item Stream</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_stream_2453cfd12f27e010ae2724c62799b628</sys_update_name>
+        <sys_updated_by>abdessabourerghai@gmail.com</sys_updated_by>
+        <sys_updated_on>2021-04-15 14:26:18</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_item_stream>
+</record_update>
